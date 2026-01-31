@@ -1,0 +1,54 @@
+{
+  "raw_exact_acc": {
+    "mean": 0.0033333333333333335,
+    "std": 0.005773502691896258
+  },
+  "corrected_exact_acc": {
+    "mean": 0.0033333333333333335,
+    "std": 0.005773502691896258
+  },
+  "raw_consistency": {
+    "mean": 0.9433333333333334,
+    "std": 0.0305505046330389
+  },
+  "corrected_consistency": {
+    "mean": 1.0,
+    "std": 0.0
+  },
+  "raw_budget_violation": {
+    "mean": 0.0,
+    "std": 0.0
+  },
+  "corrected_budget_violation": {
+    "mean": 0.0,
+    "std": 0.0
+  },
+  "corrected_avg_changes": {
+    "mean": 0.05666666666666667,
+    "std": 0.030550504633038933
+  },
+  "raw_precision_macro": {
+    "mean": 0.4230447464205443,
+    "std": 0.008552922227455483
+  },
+  "raw_recall_macro": {
+    "mean": 0.4097170230816582,
+    "std": 0.0099261949587445
+  },
+  "raw_accuracy_macro": {
+    "mean": 0.4261904761904762,
+    "std": 0.01573591584938886
+  },
+  "corrected_precision_macro": {
+    "mean": 0.4205658725695514,
+    "std": 0.006736329995865021
+  },
+  "corrected_recall_macro": {
+    "mean": 0.40818502789641226,
+    "std": 0.007708209253129397
+  },
+  "corrected_accuracy_macro": {
+    "mean": 0.4242857142857143,
+    "std": 0.012857142857142845
+  }
+}
